@@ -3,6 +3,10 @@ title: "Image Gallery"
 date: 2025-05-14
 draft: false
 description: "My gallery :earth_asia:"
+tags:
+  - gallery
+image: /images/post.jpg
+description: ""
 layout: "gallery"
 galleryImages:
  - src: https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111-1500x1000.jpg
